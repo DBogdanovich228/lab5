@@ -3,7 +3,7 @@
 #include<math.h>
 
 void main(){
-	setlocale(LC_ALL,"RUSSIAN");
+	setlocale(LC_ALL,"RUSSIAN"); //
 	int k, i, j,x,y,b,f,z,a[100],ma=0;
 	printf("Введите размер матрицы k =");
 	scanf("%d",&k);
